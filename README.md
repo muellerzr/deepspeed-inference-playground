@@ -1,2 +1,4 @@
 # deepspeed-inference-playground
-Messing around with DS's TP interface
+
+
+Deepspeed has an inference module seen [here](https://deepspeed.readthedocs.io/en/stable/inference-init.html), documenting my learnings and experimenting
